@@ -19,3 +19,8 @@ Der einfache Taschenrechner soll wie folgt designed werden:
 Die JavaFx Application soll im Projekt wie folgt strukturiert sein:
 
 ![Struktur](/doc/Calculator_Project.png)
+
+## Abgabe
+
+In dieser Stunde versuchen wir das Projekt im Github Classroom abzugeben.
+Das wird eine Challenge für uns alle! :-)
